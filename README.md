@@ -1,0 +1,2 @@
+# Bot
+Ruby Discord Botu
